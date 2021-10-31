@@ -1,0 +1,8 @@
+/vendor
+/phpunit.xml.dist
+.directory
+.idea/php.xml
+.idea/phpunit.xml
+.idea/vcs.xml
+.phpunit.result.cache
+token.txt
